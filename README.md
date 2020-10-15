@@ -1,9 +1,10 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Loteria
+*Carlos Asairi*
+*Carla Garcia*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics, Cd. de Mexico & Sept 2020*
 
 ## Content
 - [Project Description](#project-description)
