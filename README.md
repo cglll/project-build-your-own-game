@@ -15,8 +15,7 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
-
+La Lotería Mexicana es un juego tradicional de México, donde uno apela a su suerte, con tal de tachar todas las imágenes de nuestro cartón que concuerden con las cartas que el Gritón mostrará.
 <a name="workflow"></a>
 
 ## Workflow
